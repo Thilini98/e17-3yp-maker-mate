@@ -66,13 +66,14 @@ Maker Mate is a system which assits the makers in computer engineering departmen
 - [] Get the QEMU emulator for Raspberry Pi emulation and get some hands on experience to design console UI.
 - [ ] Learn interfacing webapp with raspberry pi
 - [ ] Build UI interface for flutter mobile app (in charge - @Thanujan96)
+- [x] Complete 3D modeling for locker system
 - [ ] Complete 3D modeling of Information console
 
 - [ ] add next steps
 
 ## Team Members
 
-1. E/17/201 Thilini Madushani [[Website](http://www.thilini98.me/), [Email](mailto:e17201@eng.pdn.ac.lk)]
+1. E/17/201 Thilini Madushani [[Website](https://github.com/Thilini98), [Email](mailto:e17201@eng.pdn.ac.lk)]
 2. E/17/342 Thanujan Tharmapalan [[Website](https://github.com/thanujan96), [Email](mailto:e17342@eng.pdn.ac.lk)]
 3. E/17/194 Madhushan Ramalingam [[Website](https://www.drmadhushan.me/), [Email](mailto:drmadhushan@gmail.com)]
 
